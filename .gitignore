@@ -1,0 +1,16 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Данные
+dataset/
+runs/
+cow_project/
+
+# Веса моделей
+*.pt
+
+# Системный мусор PyCharm и Python
+.idea/
+__pycache__/
+*.pyc
